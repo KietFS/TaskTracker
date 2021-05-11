@@ -1,2 +1,2 @@
 # TaskTracker
-This is my first React App. I've learned this on youtube and practice in 1 week
+This is my first React Project. A Task-Tracker app to control our works.
